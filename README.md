@@ -1,0 +1,17 @@
+- Mini-git
+  - [Write yourself a Git!](https://wyag.thb.lt/)
+  - [Git Internals: Git Objects, Pro Git](https://git-scm.com/book/en/v2/Git-Internals-Git-Objects)
+  - [ugit: DIY Git in Python](https://www.leshenko.net/p/ugit/)
+  - [Build your own Git, CodeCrafters](https://app.codecrafters.io/courses/git/overview)
+- Container runner
+  - [Containers From Scratch, Liz Rice (talk)](https://www.youtube.com/watch?v=8fi7uSYlOdc)
+  - [lizrice/containers-from-scratch](https://github.com/lizrice/containers-from-scratch)
+  - [namespaces(7), Linux man page](https://man7.org/linux/man-pages/man7/namespaces.7.html)
+  - [cgroups(7), Linux man page](https://man7.org/linux/man-pages/man7/cgroups.7.html)
+  - [What even is a container?, Julia Evans](https://jvns.ca/blog/2016/10/10/what-even-is-a-container/)
+- Query engine (CSV, WHERE, JOIN, indexes)
+  - [How Query Engines Work, Andy Grove](https://howqueryengineswork.com/)
+  - [Let's Build a Simple Database](https://cstack.github.io/db_tutorial/)
+  - [Use The Index, Luke](https://use-the-index-luke.com/)
+  - [The SQLite Query Optimizer Overview](https://www.sqlite.org/queryplanner.html)
+  - [CMU 15-445/645 Database Systems](https://15445.courses.cs.cmu.edu/)
